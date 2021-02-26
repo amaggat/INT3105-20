@@ -1,4 +1,4 @@
-package OpenClosedPrinciple.conform;
+package SOLID.OpenClosedPrinciple.conform;
 
 public class Cat extends Animal{
     public Cat(String name) {

@@ -1,4 +1,4 @@
-package OpenClosedPrinciple.conform;
+package SOLID.OpenClosedPrinciple.conform;
 
 import java.util.Arrays;
 import java.util.List;
