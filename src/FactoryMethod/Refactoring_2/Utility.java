@@ -2,8 +2,7 @@ package FactoryMethod.Refactoring_2;
 
 public class Utility {
     public static Item copy(Item item){
-        Item newItem = item;
-        return newItem;
+        return item;
     }
 
     public static void main(String[] args) {

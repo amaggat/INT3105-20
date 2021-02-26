@@ -29,10 +29,6 @@ public abstract class Item {
         this.title = title;
     }
 
-    public void copy(Item item){
-
-    }
-
     @Override
     public String toString() {
         return "Item{" +
